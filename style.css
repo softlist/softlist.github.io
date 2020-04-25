@@ -1,0 +1,50 @@
+/* PAGE STYLES */
+body {
+	background-color: rgb(65, 105, 225);
+}
+
+/* IMAGE STYLES */
+.i1 {
+	border: 4px dashed rgb(255, 0, 0);
+	margin-right: -7px;
+	margin-top: -160px;
+	float: right;
+	width: 1200px;
+	height: 600px;
+}
+
+/* TEXT STYLES */
+.t1, .t2, .t3 {
+	font-size: 64px;
+	color: rgb(255, 255, 255);
+}
+.t1 {
+	margin-left: 10px;
+	margin-top: 160px;
+}
+.t2 {
+	margin-left: 16px;
+	margin-top: 300px;
+}
+.t3 {
+	margin-left: 16px;
+}
+.p1, .p2 {
+	font-weight: 1000;
+	font-size: 42px;
+	color: rgb(255, 255, 255);
+	margin-left: 42px;
+}
+.p2 {
+	margin-top: -15px;
+}
+
+/* BUTTON STYLES */
+.b1, .b2, .b3 {
+	color: rgb(255, 255, 255);
+	background-color: navy;
+	margin-top: -30px;
+	margin-left: 16px;
+	font-size: 32px;
+	border: 4px solid rgb(255, 0, 0);
+}
